@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThaarushiN
 - 📚 I’m reading a BSc (Hons) in Information Technology degree currently.
-- 🌱 I’m currently learning Javascript and MERN stack...
+- 🌱 Learning Javascript and MERN stack...
 
 
 <!---
